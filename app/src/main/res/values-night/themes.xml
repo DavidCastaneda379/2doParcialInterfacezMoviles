@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.LoginMaterialYou" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#ADC6FF</item>
+        <item name="colorOnPrimary">#002E69</item>
+        <item name="colorPrimaryContainer">#08448E</item>
+        <item name="colorOnPrimaryContainer">#D8E2FF</item>
+        <item name="colorSurface">#10131A</item>
+        <item name="colorOnSurface">#E0E2EC</item>
+        <item name="colorOnSurfaceVariant">#C4C6D0</item>
+        <item name="colorSurfaceContainerLow">#1C2028</item>
+        <item name="colorOutline">#8E9099</item>
+    </style>
+</resources>
